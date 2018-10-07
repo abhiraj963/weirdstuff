@@ -30,7 +30,7 @@ import com.nostra13.universalimageloader.core.download.BaseImageDownloader
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.fragment_home.*
 import org.codedocs.codedocs.R.id.cvhe
-import java.net.URL
+import java.net.*
 import java.util.*
 import kotlin.concurrent.timerTask
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener
